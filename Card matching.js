@@ -1,5 +1,3 @@
-// spin off
-
 $(function(){
     var empty = new Object();
     var opened = {
